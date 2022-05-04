@@ -23,3 +23,10 @@
     align-items: center;
 
 }
+.page__wrapper {
+    margin-top: 30px;
+    display: flex;
+    align-items: center;
+
+}
+
