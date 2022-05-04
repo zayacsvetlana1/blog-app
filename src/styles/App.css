@@ -6,11 +6,13 @@
 
 #root {
     display: flex;
+    /*flex-direction: column;*/
     justify-content: center;
+    align-items: center;
 }
 
 .App {
-    width: 800px;
+    max-width: 800px;
 }
 
 .post {
@@ -27,6 +29,5 @@
     margin-top: 30px;
     display: flex;
     align-items: center;
-
 }
 
